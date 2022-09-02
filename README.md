@@ -1,5 +1,5 @@
 # Sudoku_Solver
-A project based on Data Structures i.e. Recursion and Backtracking 
+Used c++ to solve  9*9 Sudoku solver using Recursion and Backtracking
 
 
 
