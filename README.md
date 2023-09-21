@@ -23,5 +23,8 @@ Using Recursion and Backtracking
 
  - You have to Select Timer and Level.
 
- - 
+ - After that click *Start* Button
+ - It will look like this
+ - ![Screenshot (305)](https://github.com/Prakash-Haldar/Sudoku_Solver/assets/75167785/1f031e0a-7335-4c0f-ad83-80f271acf159)
+
 
