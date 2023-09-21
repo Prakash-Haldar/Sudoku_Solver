@@ -12,6 +12,9 @@ Using Recursion and Backtracking
     * 3:00  min
     * 5:00  min
     * 10:00 min
+
+  
     
 
+![Screenshot (304)](https://github.com/Prakash-Haldar/Sudoku_Solver/assets/75167785/8ff76d31-f9f6-4eda-b396-260f01dff364)
 
