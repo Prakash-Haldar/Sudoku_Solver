@@ -7,8 +7,8 @@ Using Recursion and Backtracking
     * Easy
     * Medium
     * Hard
-   
-   - Timer:
+    
+Timer:
     * 3:00  min
     * 5:00  min
     * 10:00 min
