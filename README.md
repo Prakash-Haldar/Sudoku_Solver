@@ -1,20 +1,17 @@
 # Sudoku_Solver
-Used c++ to solve  9*9 Sudoku solver using Recursion and Backtracking
+Using Recursion and Backtracking
+# To Play This Game : [click here](https://prakash-haldar.github.io/Sudoku_Solver/)
 
-
-
-## API
-
-### Get
-
-Arguments -
 
   - Difficulty:
-    * easy
-    * medium
-    * hard
-    * random
+    * Easy
+    * Medium
+    * Hard
+   
+   - Timer:
+    * 3:00  min
+    * 5:00  min
+    * 10:00 min
+    
 
-Example:
 
-    https://sugoku.herokuapp.com/board?difficulty=easy
