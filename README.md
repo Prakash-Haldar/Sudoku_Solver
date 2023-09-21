@@ -20,3 +20,8 @@ Using Recursion and Backtracking
     
 ![Screenshot (304)](https://github.com/Prakash-Haldar/Sudoku_Solver/assets/75167785/8ff76d31-f9f6-4eda-b396-260f01dff364)
 
+
+ - You have to Select Timer and Level.
+
+ - 
+
