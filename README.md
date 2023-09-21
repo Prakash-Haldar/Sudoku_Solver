@@ -25,6 +25,9 @@ Using Recursion and Backtracking
 
  - After that click *Start* Button
  - It will look like this
- - ![Screenshot (305)](https://github.com/Prakash-Haldar/Sudoku_Solver/assets/75167785/1f031e0a-7335-4c0f-ad83-80f271acf159)
+  ![Screenshot (305)](https://github.com/Prakash-Haldar/Sudoku_Solver/assets/75167785/1f031e0a-7335-4c0f-ad83-80f271acf159)
 
+ - If you want to know how to play , Click *How to Play* Button
+
+ - Now go and fill up the spaces within simulated time period 
 
